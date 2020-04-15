@@ -1,55 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cba17e31efd3b2eb9e5cd87af415219",
+    "revision": "ca1ae1d3807ba91489abff521cfbd470",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "2f3b1cb919f6c8deef1e",
+    "revision": "ab32c0bc6e24ceff59ba",
     "url": "/foodtech/static/css/0.5d16e80b.chunk.css"
   },
   {
-    "revision": "18299363f771b5e9fee2",
+    "revision": "98061ebf288a2bb691c3",
     "url": "/foodtech/static/css/3.bb59309b.chunk.css"
   },
   {
-    "revision": "1f698178e32dd4c119b5",
+    "revision": "0e4d416dbc44907c9490",
     "url": "/foodtech/static/css/4.6874372b.chunk.css"
   },
   {
-    "revision": "cf62f4ded3323ae85b92",
+    "revision": "c598f11bcecc1517be69",
     "url": "/foodtech/static/css/5.b12ba3e5.chunk.css"
   },
   {
-    "revision": "7e52169c25d2f9d28bd7",
+    "revision": "7606f34c2af2c704a6be",
     "url": "/foodtech/static/css/main.46bf65f3.chunk.css"
   },
   {
-    "revision": "2f3b1cb919f6c8deef1e",
-    "url": "/foodtech/static/js/0.503dc0a3.chunk.js"
+    "revision": "ab32c0bc6e24ceff59ba",
+    "url": "/foodtech/static/js/0.6ada2a50.chunk.js"
   },
   {
-    "revision": "18299363f771b5e9fee2",
-    "url": "/foodtech/static/js/3.f92b23df.chunk.js"
+    "revision": "98061ebf288a2bb691c3",
+    "url": "/foodtech/static/js/3.6973927c.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/3.f92b23df.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/3.6973927c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f698178e32dd4c119b5",
-    "url": "/foodtech/static/js/4.e681bb3a.chunk.js"
+    "revision": "0e4d416dbc44907c9490",
+    "url": "/foodtech/static/js/4.3ad732c9.chunk.js"
   },
   {
-    "revision": "cf62f4ded3323ae85b92",
-    "url": "/foodtech/static/js/5.f9e3f797.chunk.js"
+    "revision": "c598f11bcecc1517be69",
+    "url": "/foodtech/static/js/5.e52049e4.chunk.js"
   },
   {
-    "revision": "7e52169c25d2f9d28bd7",
-    "url": "/foodtech/static/js/main.8990916f.chunk.js"
+    "revision": "7606f34c2af2c704a6be",
+    "url": "/foodtech/static/js/main.6a48afb7.chunk.js"
   },
   {
-    "revision": "4192ae9af63258157e48",
-    "url": "/foodtech/static/js/runtime-main.88c3ffda.js"
+    "revision": "9efea50dd6ddb895726e",
+    "url": "/foodtech/static/js/runtime-main.dace96f1.js"
   },
   {
     "revision": "109f26da3aa8ab42273eaf3b5bd28a8d",
