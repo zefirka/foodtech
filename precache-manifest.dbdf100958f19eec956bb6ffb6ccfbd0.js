@@ -1,55 +1,63 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "977f50d82f084f04ffeb5be50ca423ff",
+    "revision": "6da51f432916e264050dd7eba4222cf9",
     "url": "/foodtech/index.html"
   },
   {
-    "revision": "ab32c0bc6e24ceff59ba",
-    "url": "/foodtech/static/css/0.5d16e80b.chunk.css"
+    "revision": "7d0af69aa838c138c962",
+    "url": "/foodtech/static/css/0.0b5ba63d.chunk.css"
   },
   {
-    "revision": "98061ebf288a2bb691c3",
+    "revision": "f139153a9d1d97db6e2f",
     "url": "/foodtech/static/css/3.bb59309b.chunk.css"
   },
   {
-    "revision": "0e4d416dbc44907c9490",
-    "url": "/foodtech/static/css/4.6874372b.chunk.css"
+    "revision": "4aa577189e83673af674",
+    "url": "/foodtech/static/css/4.1dace5c9.chunk.css"
   },
   {
-    "revision": "c598f11bcecc1517be69",
-    "url": "/foodtech/static/css/5.b12ba3e5.chunk.css"
+    "revision": "32e267dfb7651092ea10",
+    "url": "/foodtech/static/css/5.590010d8.chunk.css"
   },
   {
-    "revision": "2d8fad8d1e00b6d7f295",
+    "revision": "2dbfcb644037a2b74b2a",
+    "url": "/foodtech/static/css/6.097e1111.chunk.css"
+  },
+  {
+    "revision": "9eb51314b9183d98f2d5",
     "url": "/foodtech/static/css/main.46bf65f3.chunk.css"
   },
   {
-    "revision": "ab32c0bc6e24ceff59ba",
-    "url": "/foodtech/static/js/0.6ada2a50.chunk.js"
+    "revision": "7d0af69aa838c138c962",
+    "url": "/foodtech/static/js/0.16bb17db.chunk.js"
   },
   {
-    "revision": "98061ebf288a2bb691c3",
-    "url": "/foodtech/static/js/3.6973927c.chunk.js"
+    "revision": "f139153a9d1d97db6e2f",
+    "url": "/foodtech/static/js/3.d6a9e3dc.chunk.js"
   },
   {
     "revision": "216e537bacc64f9dbaabd26649a9ab95",
-    "url": "/foodtech/static/js/3.6973927c.chunk.js.LICENSE.txt"
+    "url": "/foodtech/static/js/3.d6a9e3dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e4d416dbc44907c9490",
-    "url": "/foodtech/static/js/4.3ad732c9.chunk.js"
+    "revision": "4aa577189e83673af674",
+    "url": "/foodtech/static/js/4.9d2b6fc0.chunk.js"
   },
   {
-    "revision": "c598f11bcecc1517be69",
-    "url": "/foodtech/static/js/5.e52049e4.chunk.js"
+    "revision": "32e267dfb7651092ea10",
+    "url": "/foodtech/static/js/5.2b5f2b5a.chunk.js"
   },
   {
-    "revision": "2d8fad8d1e00b6d7f295",
-    "url": "/foodtech/static/js/main.c15ffc72.chunk.js"
+    "revision": "2dbfcb644037a2b74b2a",
+    "url": "/foodtech/static/js/6.7c1fd17b.chunk.js"
   },
   {
-    "revision": "9efea50dd6ddb895726e",
-    "url": "/foodtech/static/js/runtime-main.dace96f1.js"
+    "revision": "9eb51314b9183d98f2d5",
+    "url": "/foodtech/static/js/main.0a2bce61.chunk.js"
+  },
+  {
+    "revision": "747790c4ee4962103c87",
+    "url": "/foodtech/static/js/runtime-main.69168cb9.js"
   },
   {
     "revision": "109f26da3aa8ab42273eaf3b5bd28a8d",
