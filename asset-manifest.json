@@ -4,10 +4,10 @@
     "static/js/0.d492ab69.chunk.js": "/foodtech/static/js/0.d492ab69.chunk.js",
     "static/js/0.d492ab69.chunk.js.map": "/foodtech/static/js/0.d492ab69.chunk.js.map",
     "main.css": "/foodtech/static/css/main.46bf65f3.chunk.css",
-    "main.js": "/foodtech/static/js/main.01d8d35f.chunk.js",
-    "main.js.map": "/foodtech/static/js/main.01d8d35f.chunk.js.map",
-    "runtime-main.js": "/foodtech/static/js/runtime-main.94190c73.js",
-    "runtime-main.js.map": "/foodtech/static/js/runtime-main.94190c73.js.map",
+    "main.js": "/foodtech/static/js/main.58dcf42c.chunk.js",
+    "main.js.map": "/foodtech/static/js/main.58dcf42c.chunk.js.map",
+    "runtime-main.js": "/foodtech/static/js/runtime-main.af9cd9e4.js",
+    "runtime-main.js.map": "/foodtech/static/js/runtime-main.af9cd9e4.js.map",
     "static/css/3.bb59309b.chunk.css": "/foodtech/static/css/3.bb59309b.chunk.css",
     "static/js/3.253fa839.chunk.js": "/foodtech/static/js/3.253fa839.chunk.js",
     "static/js/3.253fa839.chunk.js.map": "/foodtech/static/js/3.253fa839.chunk.js.map",
@@ -18,10 +18,10 @@
     "static/js/5.540880fb.chunk.js": "/foodtech/static/js/5.540880fb.chunk.js",
     "static/js/5.540880fb.chunk.js.map": "/foodtech/static/js/5.540880fb.chunk.js.map",
     "static/css/6.097e1111.chunk.css": "/foodtech/static/css/6.097e1111.chunk.css",
-    "static/js/6.7c1fd17b.chunk.js": "/foodtech/static/js/6.7c1fd17b.chunk.js",
-    "static/js/6.7c1fd17b.chunk.js.map": "/foodtech/static/js/6.7c1fd17b.chunk.js.map",
+    "static/js/6.357fc248.chunk.js": "/foodtech/static/js/6.357fc248.chunk.js",
+    "static/js/6.357fc248.chunk.js.map": "/foodtech/static/js/6.357fc248.chunk.js.map",
     "index.html": "/foodtech/index.html",
-    "precache-manifest.76571b49b4b186d5a89c0bb0b7e3b9ce.js": "/foodtech/precache-manifest.76571b49b4b186d5a89c0bb0b7e3b9ce.js",
+    "precache-manifest.1cd25ad6e4b0c527b20f699c95d4d099.js": "/foodtech/precache-manifest.1cd25ad6e4b0c527b20f699c95d4d099.js",
     "service-worker.js": "/foodtech/service-worker.js",
     "static/css/0.0b5ba63d.chunk.css.map": "/foodtech/static/css/0.0b5ba63d.chunk.css.map",
     "static/css/3.bb59309b.chunk.css.map": "/foodtech/static/css/3.bb59309b.chunk.css.map",
@@ -34,10 +34,10 @@
     "static/media/device.svg": "/foodtech/static/media/device.29dc30b4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.94190c73.js",
+    "static/js/runtime-main.af9cd9e4.js",
     "static/css/3.bb59309b.chunk.css",
     "static/js/3.253fa839.chunk.js",
     "static/css/main.46bf65f3.chunk.css",
-    "static/js/main.01d8d35f.chunk.js"
+    "static/js/main.58dcf42c.chunk.js"
   ]
 }
